@@ -1,1 +1,1 @@
-Web site tic tac toe Mengunakan teknologi javaScript
+Website Geme tic tac toe Mengunakan teknologi javaScript
